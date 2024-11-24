@@ -1,4 +1,4 @@
-# Natural Language Processing Assignments
+# Natural Language Processing
 
 ## Project Overview
 This repository contains two assignments completed for a Natural Language Processing course. These assignments explore different aspects of machine learning and natural language processing techniques, specifically focusing on text classification and word sense disambiguation.
